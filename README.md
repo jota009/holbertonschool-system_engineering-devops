@@ -270,4 +270,4 @@ This project provides the foundation for advanced topics:
 ---
 
 ## Author
-- Josniel Ramos Díaz 
+- Josniel Ramos Díaz
